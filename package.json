@@ -1,0 +1,16 @@
+{
+  "name": "Gmail Reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "*",
+    "electronify-server": "^0.6.2",
+    "jquery": "^3.2.1"
+  }
+}
